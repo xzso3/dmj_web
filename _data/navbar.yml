@@ -1,0 +1,18 @@
+#- name: 下载弹幕姬
+#  id: navbar-dldmj
+#  link: https://soft.ceve-market.org/bilibili_dm/setup.exe
+#  icon: fa-download
+
+- name: 插件目录
+  link: /plugins/
+  icon: fa-list
+
+- name: 弹幕姬讨论区
+  link: https://f.danmuji.cn
+  icon: fa-comments-o
+  target: _blank
+  
+- name: 直播简介生成器
+  link: http://blive.cabbagelol.net
+  icon: fa-globe
+  target: _blank
